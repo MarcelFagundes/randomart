@@ -1,8 +1,6 @@
----
-
 # **Hash Visualization com Random Art**
 
-Este projeto implementa a técnica de **Hash Visualization** proposta no artigo **"Hash Visualization: a New Technique to improve Real-World Security"**, escrito por Adrian Perrig e Dawn Song. A técnica visa melhorar a segurança de sistemas do mundo real ao substituir strings sem significado (como impressões digitais de chaves criptográficas ou senhas) por imagens estruturadas, que são mais fáceis para os humanos compararem e lembrarem.
+Este projeto implementa a técnica de  **Hash Visualization** proposta no artigo **"Hash Visualization: a New Technique to improve Real-World Security"**, escrito por Adrian Perrig e Dawn Song. A técnica visa melhorar a segurança de sistemas do mundo real ao substituir strings sem significado (como impressões digitais de chaves criptográficas ou senhas) por imagens estruturadas, que são mais fáceis para os humanos compararem e lembrarem.
 
 O código implementa o algoritmo **Random Art**, que gera imagens a partir de strings usando uma gramática probabilística. Essas imagens podem ser usadas para validação de chaves raiz ou autenticação de usuários.
 
@@ -108,6 +106,13 @@ O código e as explicações são baseados no artigo:
 - **Autores**: Adrian Perrig e Dawn Song
 - **Instituição**: Carnegie Mellon University
 - **Link**: [Artigo Original](https://www.cs.cmu.edu/~adrian/Papers/2000-hashvis.pdf)
+
+---
+
+O código e a implementação do código:
+- **Título**: RandomArt
+- **Autor**: Alexey Kutepov
+- **Link**: [Artigo Original](https://github.com/tsoding/randomart/blob/main/README.md)
 
 ---
 
