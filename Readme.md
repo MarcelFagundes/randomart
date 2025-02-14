@@ -105,7 +105,7 @@ O código e as explicações são baseados no artigo:
 - **Título**: Hash Visualization: a New Technique to improve Real-World Security
 - **Autores**: Adrian Perrig e Dawn Song
 - **Instituição**: Carnegie Mellon University
-- **Link**: [Artigo Original](https://www.cs.cmu.edu/~adrian/Papers/2000-hashvis.pdf)
+- **Link**: [Artigo Original](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf)
 
 ---
 
