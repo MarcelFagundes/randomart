@@ -120,12 +120,6 @@ int main() {
     // Gera uma imagem PPM a partir da árvore de expressões
     char ppm_filename[] = "output.ppm";
     generate_image(root, ppm_filename);
-
-    // Converte o arquivo PPM para PNG
-    char png_filename[] = "output.png";
-    convert_to_png(ppm_filename, png_filename);
-
-    printf("Imagem gerada e salva como 'output.png'\n");
-
+    
     return 0;
 }
